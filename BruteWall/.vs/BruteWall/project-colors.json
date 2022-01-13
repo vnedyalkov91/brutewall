@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b91bae71-689a-441c-b5aa-59d53b344120": {
+      "ProjectGuid": "b91bae71-689a-441c-b5aa-59d53b344120",
+      "DisplayName": "BruteWall",
+      "ColorIndex": 0
+    },
+    "84fc25e4-a0d1-43ed-809e-a306b70ce3dc": {
+      "ProjectGuid": "84fc25e4-a0d1-43ed-809e-a306b70ce3dc",
+      "DisplayName": "BruteWall.Demo",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b83e77fb-e8a9-4b30-b546-3a61b4818ebd": {
+      "ProjectGuid": "b83e77fb-e8a9-4b30-b546-3a61b4818ebd",
+      "DisplayName": "BruteWall.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

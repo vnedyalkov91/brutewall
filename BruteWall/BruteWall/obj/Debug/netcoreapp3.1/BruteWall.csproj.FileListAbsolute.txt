@@ -1,0 +1,10 @@
+C:\Users\vnedyalkov\Desktop\github\brutewall\BruteWall\BruteWall\bin\Debug\netcoreapp3.1\BruteWall.deps.json
+C:\Users\vnedyalkov\Desktop\github\brutewall\BruteWall\BruteWall\bin\Debug\netcoreapp3.1\BruteWall.dll
+C:\Users\vnedyalkov\Desktop\github\brutewall\BruteWall\BruteWall\bin\Debug\netcoreapp3.1\BruteWall.pdb
+C:\Users\vnedyalkov\Desktop\github\brutewall\BruteWall\BruteWall\obj\Debug\netcoreapp3.1\BruteWall.csproj.AssemblyReference.cache
+C:\Users\vnedyalkov\Desktop\github\brutewall\BruteWall\BruteWall\obj\Debug\netcoreapp3.1\BruteWall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnedyalkov\Desktop\github\brutewall\BruteWall\BruteWall\obj\Debug\netcoreapp3.1\BruteWall.AssemblyInfoInputs.cache
+C:\Users\vnedyalkov\Desktop\github\brutewall\BruteWall\BruteWall\obj\Debug\netcoreapp3.1\BruteWall.AssemblyInfo.cs
+C:\Users\vnedyalkov\Desktop\github\brutewall\BruteWall\BruteWall\obj\Debug\netcoreapp3.1\BruteWall.csproj.CoreCompileInputs.cache
+C:\Users\vnedyalkov\Desktop\github\brutewall\BruteWall\BruteWall\obj\Debug\netcoreapp3.1\BruteWall.dll
+C:\Users\vnedyalkov\Desktop\github\brutewall\BruteWall\BruteWall\obj\Debug\netcoreapp3.1\BruteWall.pdb
